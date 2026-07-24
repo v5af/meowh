@@ -8,5 +8,10 @@
     "name": "pearl",
     "url": "https://example.com/",
     "active": "false"
+  },
+  {
+    "name": "rkit",
+    "url": "https://0xkit.lol/",
+    "active": "false"
   }
 ]   
