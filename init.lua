@@ -1,1 +1,1 @@
--- this is useless idk what v5af wanna add init when we can do C native 
+-- this is useless idk why v5af wanna add init when we can do C native 
