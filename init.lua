@@ -1,1 +1,1 @@
-print("what's this world?")
+-- this is useless idk what v5af wanna add init when we can do C native 
